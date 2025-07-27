@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on [personal blog](https://t.me/loopynerd) about my life and learning CS.<br>
-💻 I'm working at Yandex YT Dynamic tables.<br>
+💻 I'm working at Yandex Search as a Service engine.<br>
 👯 I’m looking to collaborate on projects that can use C++, Go, Rust, Python in any interesting ways.<br>
 🤝 I’m looking for help with personal growth as SWE and Artist.<br>
 🌱 I’m currently learning Distributed Systems, Backend and Low-level development etc.<br>
